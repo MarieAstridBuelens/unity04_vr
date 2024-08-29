@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Project_vr_01.sln"
+    "dotnet.defaultSolution": "unity04_vr.sln"
 }
